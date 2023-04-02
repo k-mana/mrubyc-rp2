@@ -1,0 +1,3 @@
+[submodule "mrubyc/mrubyc"]
+	path = mrubyc/mrubyc
+	url = https://github.com/k-mana/mrubyc.git
